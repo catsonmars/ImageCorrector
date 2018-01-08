@@ -1,5 +1,5 @@
 #include "image.h"
-
+/*This is a file to demonstrate a simple algorithm I made to correct images in a 24-bit 252x252 bmp image. Enjoy.*/
 
 int main()
 {
